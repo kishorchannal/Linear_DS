@@ -4,9 +4,8 @@
   - internal implementation
   - common operations
   - Level 0
-  - Easy
-  - Medium
-  - Hard
+  - Easy Medium Hard
+  
 * Linked Lists
   - common operations
 * Stacks
