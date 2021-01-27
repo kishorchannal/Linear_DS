@@ -4,7 +4,7 @@
   - internal implementation
   - common operations
   - Level 0
-  - Easy Medium Hard
+  - Easy | Medium | Hard
   
 * Stacks
   - common operations
