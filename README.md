@@ -1,12 +1,15 @@
-
 * Arrays
-  - internal implementation
-  - common operations
-  - Level 0
-  - Easy | Medium | Hard
+1.  internal implementation
+2.  common operations and time complexity
+3.  Other concepts
+4.  Level 0| Easy| Medium| Hard
   
 * Strings
-  - common operations
+1.  internal implementation
+2.  common operations and time complexity
+3.  Other concepts
+4.  Level 0| Easy| Medium| Hard
+
   
 * Stacks
   - common operations
