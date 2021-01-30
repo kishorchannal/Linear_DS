@@ -9,10 +9,9 @@
 2.  common operations and time complexity
 3.  Other concepts
 4.  Level 0| Easy| Medium| Hard
-
   
 * Stacks
-  - common operations
+
 * Queues
-  - common operations
+
   
